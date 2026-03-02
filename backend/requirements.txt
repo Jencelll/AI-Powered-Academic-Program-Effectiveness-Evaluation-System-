@@ -1,0 +1,16 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.5
+python-docx==1.1.2
+scikit-learn==1.5.0
+plotly==5.23.0
+Jinja2==3.1.4
+Werkzeug==3.0.3
+Flask-CORS==4.0.1 # For handling CORS if frontend is on a different port
+PyPDF2==3.0.1 # Optional: PDF text extraction
+pdfplumber==0.11.3 # Preferred: Robust PDF text & table extraction
+pillow==11.0.0 # Optional: Image processing for OCR
+pytesseract==0.3.10 # Optional: OCR for images
+requests

@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* High-contrast Recharts text in Light Mode */
+html:not(.dark) .recharts-text,
+html:not(.dark) .recharts-cartesian-axis-tick-value,
+html:not(.dark) .recharts-legend-item-text {
+  fill: #333333 !important;
+  color: #333333 !important;
+}
+html:not(.dark) .recharts-legend-wrapper,
+html:not(.dark) .recharts-default-legend {
+  color: #333333 !important;
+}
