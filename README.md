@@ -7,14 +7,14 @@ An integrated recommendation engine for evaluating and improving BSIT and BSCS p
 
 ## Features
 
-- **AI-Powered Analysis**: Automatic evaluation of academic program effectiveness
+ **AI-Powered Analysis**: Automatic evaluation of academic program effectiveness
 <img width="1411" height="820" alt="image" src="https://github.com/user-attachments/assets/482c5b22-907c-425d-b2f2-ba23de55393c" />
-- **Student Risk Assessment**: Identify at-risk students and provide targeted interventions
+  **Student Risk Assessment**: Identify at-risk students and provide targeted interventions
   <img width="1443" height="805" alt="image" src="https://github.com/user-attachments/assets/238e95af-9958-4ec3-b685-2598564b66b9" />
-- **Interactive Dashboard**: Real-time analytics and visualizations
+  **Interactive Dashboard**: Real-time analytics and visualizations
   <img width="1173" height="817" alt="image" src="https://github.com/user-attachments/assets/921f167d-569c-42af-a8ad-833044ccaf59" />
-- **Comprehensive Reporting**: Detailed reports for program improvement
-- **Faculty Insights**: Data-driven recommendations for educators
+ **Comprehensive Reporting**: Detailed reports for program improvement
+  **Faculty Insights**: Data-driven recommendations for educators
   <img width="1411" height="819" alt="image" src="https://github.com/user-attachments/assets/c8872bfd-ea5a-49a7-b155-a8661b37ad78" />
   
 
