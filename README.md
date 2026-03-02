@@ -2,6 +2,9 @@
 
 An integrated recommendation engine for evaluating and improving BSIT and BSCS program effectiveness using AI-driven analysis and actionable insights.
 
+<img width="874" height="407" alt="image" src="https://github.com/user-attachments/assets/46da0a3e-de8e-4459-a3ff-5ea57a25d065" />
+
+
 ## Features
 
 - **AI-Powered Analysis**: Automatic evaluation of academic program effectiveness
